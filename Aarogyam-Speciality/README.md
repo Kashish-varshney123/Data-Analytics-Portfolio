@@ -45,6 +45,7 @@ Age group and gender-wise patient distribution
 Top 3 departments by total treatment cost
 
 Project Structure
+
 Aarogyam-Speciality/
 ├── hospital_data.csv                  # Dataset
 ├── kpi_queries.sql                    # 15 SQL KPI queries

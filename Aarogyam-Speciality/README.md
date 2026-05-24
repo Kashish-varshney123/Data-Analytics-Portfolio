@@ -47,8 +47,8 @@ Top 3 departments by total treatment cost
 Project Structure
 
 Aarogyam-Speciality/
-├── hospital_data.csv                  # Dataset
-├── kpi_queries.sql                    # 15 SQL KPI queries
-├── Churn Analysis Dashboard.pbix      # Power BI dashboard file
-├── Dashboard image.png                # Dashboard screenshot
+├── Hospital Patient.csv               # Dataset
+├── kpi.queries.sql                    # 15 SQL KPI queries
+├── Health Care.pbix                   # Power BI dashboard file
+├── dashboard-overview.png             # Dashboard screenshot
 └── README.md                          # Project documentation
